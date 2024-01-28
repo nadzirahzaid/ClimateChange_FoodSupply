@@ -9,3 +9,13 @@ Food insecurity is defined by the Food and Agriculture Organization (FAO) of the
 Data obtained from
 1. IMF :  https://climatedata.imf.org/
 2. Our world in data : https://ourworldindata.org/
+
+
+
+@article{owidagriculturalproduction,
+    author = {Hannah Ritchie and Pablo Rosado and Max Roser},
+    title = {Agricultural Production},
+    journal = {Our World in Data},
+    year = {2023},
+    note = {https://ourworldindata.org/agricultural-production}
+}
